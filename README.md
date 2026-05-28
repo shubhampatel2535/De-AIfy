@@ -1,4 +1,4 @@
-# AI-Humanify - AI Image Detection Bypass Tool
+# AI-De-AIfy - AI Image Detection Bypass Tool
 
 A web application that processes AI-generated images to make them undetectable by AI detection algorithms like SightEngine. Reduce AI detection rates from 100% to as low as 2% while preserving image quality.
 
@@ -77,7 +77,7 @@ Health check endpoint.
 
 ## How It Works
 
-The AI-Humanify algorithm applies a series of image processing techniques:
+The De-AIfy algorithm applies a series of image processing techniques:
 
 1. **Upscaling**: Scale image by 4x using Lanczos resampling
 2. **Median Filtering**: Apply noise reduction filter
